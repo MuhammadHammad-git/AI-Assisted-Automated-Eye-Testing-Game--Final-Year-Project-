@@ -7,7 +7,7 @@ https://www.linkedin.com/posts/muhammad-hammad-87787421a_four-years-and-they-wen
 
 # Game Details
 ## Animation:
-The Game includes a wooden board (Created frame by frame in Paint *Every animation is made like this*) placed in a forest environment that pops up and digs down in the ground! The letters appear on the board and the appearance, background and font of the letters are specific to the requirement for an eye test! 
+The Game includes a wooden board (Created frame by frame in Paint *Every animation is made like this*) placed in a forest environment that pops up and digs down in the ground! The letters appear on the board and the appearance, background and font of the letters are specific to the requirement for an eye test! The Letters displayed are Random and Are displayed randomly anywhere but only on the ground part of the forest!
 There is grass animation as well to show multithreading.
 ## Audio, Model and the user:
 Audio of the user is taken by either a headphone or microphone. The audio first passes through the sliding window algorithm that inputs the audio to the model in 1 sec samples. if the first window of audio does not produce the required result then the audio window is moved ahead 0.5 seconds and another audio sample is passed! Until all the requirement are met only then the model output is used! All this is to ensure that the patient has a seemless experience, i.e allowing him/her to say too early or too late or even repeat a letter without causing any issues.
