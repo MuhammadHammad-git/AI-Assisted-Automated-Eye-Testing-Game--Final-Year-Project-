@@ -53,7 +53,7 @@ https://github.com/MuhammadHammad-git/AI-Assisted-Automated-Eye-Testing-Game--Fi
 ## Realtime With Patient
 https://drive.google.com/file/d/1WJ-i7jxUeieNWjcf0R-orHxnQ-HDCrY3/view?usp=drive_link
 *Here Letters that blink green are recognized while those in red are missed by the model!
-Here, we can clearly observe that even in such a noisy environment our Model is working with an accuracy of 90%!
+Here, we can clearly observe that even in such a noisy environment our Model is working with an accuracy of more than 95%!
 This was a huge accompolishment for us as all of the data was collected by us through Audio recording! This audio data set is not available for free anywhere on the web!
 There are 5 Letters that appear on the screen T O Z F L. We collected 160 to 170 audio samples for each letter.
 The model we used here is trained using CNN while Google Teachable machines model was used as a prototype and benchmark to assess our model*
