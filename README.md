@@ -5,6 +5,9 @@ This is my most innovative and fun work. A project that encompasses all of my wo
 *Here is a link to the wonderfull ceremony where we secured Second Position and sadly my last day at university!
 https://www.linkedin.com/posts/muhammad-hammad-87787421a_four-years-and-they-went-like-that-mashallah-activity-7070119934269210624-aq94?utm_source=share&utm_medium=member_desktop*
 
+*Here is the link for the Voice Recognition model trained by us for this project!
+https://github.com/MuhammadHammad-git/Voice-Recognition-Model-for-FYP-Trained-in-CNN-
+
 # Game Details
 ## Animation:
 The Game includes a wooden board (Created frame by frame in Paint *Every animation is made like this*) placed in a forest environment that pops up and digs down in the ground! The letters appear on the board and their appearance, background and font are specific to the requirement for an eye test! The Letters displayed are Random and Are displayed randomly anywhere on the ground of the forest!
